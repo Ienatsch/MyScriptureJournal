@@ -13,6 +13,7 @@ ul.navbar-nav {
     justify-content: center;
 }
 
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -20,7 +21,7 @@ html {
 }
 @media (min-width: 768px) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
@@ -50,6 +51,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  background-color: lightgoldenrodyellow;
 }
 
 body .container {
@@ -65,5 +67,3 @@ body .container {
   height: 60px;
   line-height: 60px; /* Vertically center the text there */
 }
-
-/* Custom CSS */

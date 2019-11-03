@@ -2,6 +2,12 @@
 
 body {
 }
+
+form label {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 .searchAddContainer {
     display: flex;
     flex-direction: row;
@@ -14,11 +20,11 @@ body {
 }
 
 .smallCol {
-    width: 8em;
+    max-width: 8em;
 }
 
 .largeCol {
-    width: 28em;
+    max-width: 28em;
 }
 
 .table tbody tr td:not(:last-child){

@@ -54,7 +54,6 @@ D:\SCHOOL\Fall 2019\CIT 365\MyScriptureJournal\MyScriptureJournal\obj\Debug\netc
 D:\SCHOOL\Fall 2019\CIT 365\MyScriptureJournal\MyScriptureJournal\obj\Debug\netcoreapp2.2\MyScriptureJournal.TagHelpers.output.cache
 D:\SCHOOL\Fall 2019\CIT 365\MyScriptureJournal\MyScriptureJournal\obj\Debug\netcoreapp2.2\MyScriptureJournal.RazorCoreGenerate.cache
 D:\SCHOOL\Fall 2019\CIT 365\MyScriptureJournal\MyScriptureJournal\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
-D:\SCHOOL\Fall 2019\CIT 365\MyScriptureJournal\MyScriptureJournal\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
 D:\SCHOOL\Fall 2019\CIT 365\MyScriptureJournal\MyScriptureJournal\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
 D:\SCHOOL\Fall 2019\CIT 365\MyScriptureJournal\MyScriptureJournal\obj\Debug\netcoreapp2.2\Razor\Pages\Scriptures\Create.cshtml.g.cs
 D:\SCHOOL\Fall 2019\CIT 365\MyScriptureJournal\MyScriptureJournal\obj\Debug\netcoreapp2.2\Razor\Pages\Scriptures\Delete.cshtml.g.cs

@@ -12,14 +12,14 @@
                 @Html.RadioButton("searchByValue", "book", true)Book
             </label>
             <label>
-                @Html.RadioButton("searchByValue", "noteKeyword")Note Keyword
+                @Html.RadioButton("searchByValue", "noteKeyword")Keyword
             </label>
             <input type="text" asp-for="SearchString" />
-            <input type="submit" value="Filter" />
+            <input type="submit" value="Filter" class="btn btn-success"/>
         </p>
     </form>
     <p>
-        <a asp-page="Create">Add Scripture</a>
+        <button type="button" class="btn btn-success"><a asp-page="Create" style="color:white">Add Scripture</a></button>
     </p>
 </div>
 <table class="table">
@@ -73,7 +73,7 @@
                 @Html.DisplayFor(modelItem => item.DateAdded)
             </td>
             <td>
-                <button type="button" class="btn btn-primary btn-sm btn-success"><a asp-page="./Edit" asp-route-id="@item.Id">Edit</a></button>
+                <button type="button" class="btn btn-primary btn-sm btn-warning"><a asp-page="./Edit" asp-route-id="@item.Id">Edit</a></button>
                 <button type="button" class="btn btn-primary btn-info"><a asp-page="./Details" asp-route-id="@item.Id">Details</a></button>
                 <button type="button" class="btn btn-primary btn-sm btn-danger"><a asp-page="./Delete" asp-route-id="@item.Id">Delete</a></button>
             </td>
